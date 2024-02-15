@@ -31,7 +31,7 @@
 
 <h2 id="tentang">👨🏻‍🏫 Tentang Skybook</h2>
 
-Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran kala pandemi, learnify dibuat agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
+Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran kala pandemi, Skybook dibuat agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
 <p></p>
 
@@ -45,7 +45,7 @@ Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran kala pand
   - Guru [upload materi berdasarkan kelas dan mata pelajaran]
   - Admin [mengatur data siswa, guru sekaligus materi]
 - Diskusi dan Reaksi Dengan Integrasi Disqus
-- Ujian Online [segera hadir]
+- Quiz Online 
 
 <p></p>
 
@@ -53,7 +53,7 @@ Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran kala pand
 
 Halaman demo untuk sementara tidak ada dikarenakan layanan hosting yang tidak tersedia untuk deploy aplikasi ini, kalian dapat mendownload aplikasi ini lalu menjalankan secara local di komputer anda.
 
-Update: anda dapat mengakses di http://programmer.smkn1ciamis.id/learnify/ namun tolong berikan issues jika website tersebut tidak berjalan
+Update: anda dapat mengakses di https://project.birojasaceeria.my.id/welcome/admin namun tolong berikan issues jika website tersebut tidak berjalan
 
 <p></p>
 
@@ -86,31 +86,22 @@ Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP dan mempunyai s
 
 ```bash
 # Clone repository ini atau download di
-$ git clone https://github.com/syauqi/learnify.git
+$ git clone https://github.com/AMAUXRIV/Skybook.git
 
 # Buat database
 Buat database dengan nama "skybook" di DMBS [phpmyadmin, dll]
 
 # Upload database
-Arahkan folder ke learnify/database/learnify.sql & upload ke dbms [phpmyadmin]
+Arahkan folder ke skybook/database/learnify.sql & upload ke dbms [phpmyadmin]
 
 # Buka browser
-http://localhost/learnify/welcome
+http://localhost/skybook/welcome
 
 # Enjoy, jika ingin login maka liat panduan akun diatas
 ```
 
-<p></p>
 
-<h2 id="dukungan">💌 Dukungan</h2>
 
-Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
-
-<p></p>
-
-<a href="https://trakteer.id/syaufy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
-
-<p></p>
 
 <h2 id="kontribusi">🤝 Kontribusi</h2>
 
@@ -121,10 +112,5 @@ Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal
 <p></p>
 
 <h2 id="lisensi">📝 Lisensi</h2>
-
-- Copyright © 2022 SYAUQIZAIDAN KHAIRAN KHALAF
 - Skybook adalah aplikasi web open-source yang berlisensi dibawah lisensi MIT
 
----
-
-**<p align="center">Made with ❤️ by SYAUQIZAIDAN KHAIRAN KHALAF</p>**
